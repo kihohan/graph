@@ -20,4 +20,5 @@
 ## Percent_Stack_Chart
 
 1. Percent stack chart is scaled to have the same height, so that each sub-bar becomes a percentage contribution to the whole at each primary category level. 
-2. This removes our ability to compare the primary category levels’ totals, but allows us to perform a better analysis of the secondary groups’ relative distributions. The fixing of the heights of each primary bar to be the same also creates another baseline at the top of the chart where a second subgroup can be tracked across primary bars.
+2. This removes our ability to compare the primary category levels’ totals, but allows us to perform a better analysis of the secondary groups’ relative distributions. 
+3. The fixing of the heights of each primary bar to be the same also creates another baseline at the top of the chart where a second subgroup can be tracked across primary bars.
