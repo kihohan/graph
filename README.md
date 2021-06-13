@@ -6,7 +6,7 @@
 2. 여러 측정 목표를 함께 겹쳐 놓아 비교하기에도 편리하다.
 3. 각 항목 간 비율뿐만 아니라 균형과 경향을 직관적으로 알 수 있어 편리하다.
 
-- Treemap
+# - Treemap
 
 1. A treemap chart is a type of data visualization that is especially useful for displaying hierarchical data.
 2. On a treemap, each item is represented by a rectangular shape, where smaller rectangles represent the sub-groups.
