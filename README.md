@@ -12,14 +12,17 @@
 1. A treemap chart is a type of data visualization that is especially useful for displaying hierarchical data.
 2. On a treemap, each item is represented by a rectangular shape, where smaller rectangles represent the sub-groups.
 3. The color and size of rectangles are typically correlated with the tree structure, which in return makes it easier to see the groups and sizes.
+<img width="825" alt="treeamp" src="https://user-images.githubusercontent.com/40457277/121800020-75ce8300-cc6a-11eb-9c14-606a186d8c2b.png">
 
 ## Stack_Chart
 
 1. The stacked bar chart (aka stacked bar graph) extends the standard bar chart from looking at numeric values across one categorical variable to two.
 2. Each bar in a standard bar chart is divided into a number of sub-bars stacked end to end, each one corresponding to a level of the second categorical variable.
+<img width="636" alt="stack_chart" src="https://user-images.githubusercontent.com/40457277/121800035-854dcc00-cc6a-11eb-9c2f-f23a7fbe84a3.png">
 
 ## Percent_Stack_Chart
 
 1. Percent stack chart is scaled to have the same height, so that each sub-bar becomes a percentage contribution to the whole at each primary category level. 
 2. This removes our ability to compare the primary category levels’ totals, but allows us to perform a better analysis of the secondary groups’ relative distributions. 
 3. The fixing of the heights of each primary bar to be the same also creates another baseline at the top of the chart where a second subgroup can be tracked across primary bars.
+<img width="950" alt="perent_stack_chart" src="https://user-images.githubusercontent.com/40457277/121800050-93035180-cc6a-11eb-9cc4-8ab4367f83ef.png">
