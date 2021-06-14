@@ -26,3 +26,9 @@
 2. This removes our ability to compare the primary category levels’ totals, but allows us to perform a better analysis of the secondary groups’ relative distributions. 
 3. The fixing of the heights of each primary bar to be the same also creates another baseline at the top of the chart where a second subgroup can be tracked across primary bars.
 <img width="950" alt="perent_stack_chart" src="https://user-images.githubusercontent.com/40457277/121800050-93035180-cc6a-11eb-9cc4-8ab4367f83ef.png">
+
+## Double_y
+
+1. 같은 x값을 갖는 두 데이터에 대해 경향성을 파악하기 쉽다.
+![스크린샷 2021-06-14 오후 2 57 57](https://user-images.githubusercontent.com/40457277/121845787-eafc8f80-cd20-11eb-98f8-e84f5a2de0df.png)
+
